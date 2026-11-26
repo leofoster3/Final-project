@@ -1,0 +1,86 @@
+# FuelPrep Project Log
+
+Name: Leo Foster
+Startup name: FuelPrep
+Live website link: https://leofoster3.github.io/Final-project/
+
+## Work sessions
+
+### Session 1 — November 23, 2026 — Driver: Leo Foster
+
+#### Goal for this session
+Choose a startup idea and build the first working prototype of FuelPrep, a marketplace connecting StFX students with local meal-prep businesses.
+
+#### Work completed
+I chose to make FuelPrep a platform connecting students with food providers rather than a business preparing its own meals. I opened my Final-project repository and used GitHub Codespaces and Copilot to build the website. I started on my iPad and later switched to my laptop.
+
+#### Key prompt I gave Copilot
+
+“Build FuelPrep now. It is a student project website that connects StFX students in Antigonish with local meal-prep businesses..
+
+Include:
+- A homepage introducing FuelPrep.
+- A meal marketplace with 12 sample meals from 3 fictional providers, Canadian prices, and sample protein amounts.
+- Working filters for price, provider, vegetarian, and high-protein meals.
+- Provider profiles and pickup options.
+- A working cart with quantity controls and totals.
+- Demo checkout with a simulated order confirmation, without collecting payment details.
+- A Become a Provider demo form.
+
+Clearly label fictional listings and demo features. Do not imply an official StFX affiliation.
+
+Create and edit the files now.”
+
+#### What worked
+Copilot created the first website prototype. Its completion message reported that it included the meal listings, filters, provider details, cart, simulated checkout, and provider form.
+
+I opened and tried the website. It appeared to work well during my initial review. More detailed testing is still needed before submission.
+
+#### What went wrong and how I fixed it
+Initially, I was on a GitHub Projects board instead of the repository’s coding workspace. I opened the repository and its Codespace to continue.
+
+Copilot initially responded without building the website. When I asked it to continue, it said the repository only contained README.md. I then sent the specific “Build FuelPrep now” prompt, asking it to create the actual files. It produced the first prototype.
+
+I also had difficulty finding the project log. Copilot interpreted “log” as technical system logs. .
+
+#### Committed?
+Not yet confirmed. The latest screenshot showed three changed files. I still need to confirm that my website and log have been committed and pushed to GitHub.
+
+#### Next steps
+- Confirm the project and log are committed and pushed.
+- Test the website features more thoroughly.
+- Publish the website with a permanent link.
+- Continue recording work sessions.
+- Develop my business case and complete the final reflection.
+
+## Things that broke
+
+| Date | What went wrong | What I tried | What resolved it |
+|---|---|---|---|
+| November 23, 2026 | Copilot had not created the website files. | Asked it to continue developing the website. | Sent a detailed prompt explicitly asking it to create and edit the files. |
+| November 23, 2026 | I could not find the assignment project log. | Asked Copilot where to find the project log; it described technical logs. | Identified the required assignment file as project-notes/PROJECT_LOG.md. |
+
+## What a real version would need
+
+To be completed as I review which features are simulated or missing.
+
+## Reflection
+
+To be completed at the end of the project.
+
+### Session 2 — November 24, 2026 — Leo Foster
+
+- Goal: Test the shopping cart and begin my reflection.
+- Key prompts: No new prompts recorded.
+- What worked: I tested adding products to the cart, and it worked as expected.
+- Problems: No problems encountered during this test.
+- Other progress: Began working on my reflection.
+- Committed: Not yet confirmed.
+### Session 3 — November 25, 2026 — Leo Foster
+
+- Goal: Fix the search bar and continue working on the business case report.
+- Key prompts: [Paste the prompt used to fix the search bar.]
+- What worked: The search bar worked after the fix.
+- What broke and how I fixed it: The search bar was not working. I corrected the issue and tested it again.
+- Other progress: Continued writing the business case report.
+- Committed: Not yet confirmed.
